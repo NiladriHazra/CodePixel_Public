@@ -1,5 +1,7 @@
 # CodePixel
 
+## The main repo is Private
+
 > Master Code. Ace Interviews.
 
 CodePixel is the ultimate platform for competitive programming, interview preparation, and code sharing with AI assistance.
