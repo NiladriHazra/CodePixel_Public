@@ -7,7 +7,7 @@ CodePixel is the ultimate platform for competitive programming, interview prepar
 **Current Date (UTC)**: 2025-05-20 13:51:13  
 **Creator**: NiladriHazra
 
-![CodePixel Logo](https://github.com/NiladriHazra/CodePixel_Public/raw/main/public/codepixel.png)
+
 
 ## 🚀 Features
 
