@@ -2,7 +2,23 @@
 
 ## The main repo is Private
 
+
 > Master Code. Ace Interviews.
+
+## Screen Shot 
+
+### Home Page
+
+![Home Page](/public/home.png)
+
+### CodeShare
+![CodeShare](/public/codeshare.png)
+
+### Problems
+![Problems](/public/problems.png)
+
+### Ginie AI
+![Ginnie AI](/public/ginie.png)
 
 CodePixel is the ultimate platform for competitive programming, interview preparation, and code sharing with AI assistance.
 
