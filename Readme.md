@@ -2,7 +2,6 @@
 
 ## The main repo is Private
 
-
 > Master Code. Ace Interviews.
 
 ## Screen Shots
@@ -19,18 +18,22 @@
 
 ### Protected
 >Keep your protected files password protected
+
 ![Protected](/public/password.png)
 
 ### Problems
 >Solve any DSA problem with solution
+
 ![Problems](/public/problems.png)
 
 ## Dashboard
->Keep all your stats in one place 
+>Keep all your stats in one place
+
 ![Dashboard](/public/dashboard.png)
 
 ### Ginie AI
 >Ask any Coding related doubts
+
 ![Ginnie AI](/public/ginie.png)
 
 CodePixel is the ultimate platform for competitive programming, interview preparation, and code sharing with AI assistance.
