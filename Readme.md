@@ -104,3 +104,28 @@ CodePixel is built with modern web technologies:
 - **AI Integration**: Google Gemini
 - **Real-time Collaboration**: Firebase, Socket.io
 
+## 💖 Support
+
+If you find Creative Tools Hub useful, consider supporting the project:
+
+<a href="https://buymeacoffee.com/niladri" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
+</a>
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👨‍💻 Author
+
+**Niladri Hazra**
+
+- Website: [niladrihazra.site](https://niladrihazra.site)
+- GitHub: [@NiladriHazra](https://github.com/NiladriHazra)
+- Twitter: [@PixelNiladri](https://x.com/PixelNiladri)
+
+---
+
+<div align="center">
+  Made with ❤️ by Niladri Hazra
+</div>
