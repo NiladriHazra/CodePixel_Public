@@ -5,7 +5,7 @@
 
 > Master Code. Ace Interviews.
 
-## Screen Shot 
+## Screen Shots
 
 ### Home Page
 
