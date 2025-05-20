@@ -8,17 +8,29 @@
 ## Screen Shots
 
 ### Home Page
+>This is the Landing page
 
 ![Home Page](/public/home.png)
 
 ### CodeShare
+>You can write and share your code files
 
 ![CodeShare](/public/codeShare.png)
 
+### Protected
+>Keep your protected files password protected
+![Protected](/public/password.png)
+
 ### Problems
+>Solve any DSA problem with solution
 ![Problems](/public/problems.png)
 
+## Dashboard
+>Keep all your stats in one place 
+![Dashboard](/public/dashboard.png)
+
 ### Ginie AI
+>Ask any Coding related doubts
 ![Ginnie AI](/public/ginie.png)
 
 CodePixel is the ultimate platform for competitive programming, interview preparation, and code sharing with AI assistance.
