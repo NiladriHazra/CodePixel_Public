@@ -9,10 +9,10 @@
 Check out our product walkthrough video:
 
 <div align="center">
-  <a href="https://youtu.be/MgWH3ChFcUk?si=BOtGA1WCU0mgyRnj" target="_blank">
+  <a href="https://youtu.be/MgWH3ChFcUk?si=BOtGA1WCU0mgyRnj" target="_blank" rel="noopener noreferrer">
     <img src="https://img.youtube.com/vi/MgWH3ChFcUk/maxresdefault.jpg" alt="CodePixel Demo Video" width="700" />
   </a>
-  <p>Click the image to watch the full demo on YouTube</p>
+  <p>Click the image to watch the full demo on YouTube (opens in new tab)</p>
 </div>
 
 CodePixel is the ultimate platform for competitive programming, interview preparation, and code sharing with AI assistance.
