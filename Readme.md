@@ -4,42 +4,16 @@
 
 > Master Code. Ace Interviews.
 
-## Screen Shots
+## Product Demo
 
-### Home Page
->This is the Landing page
+Check out our product walkthrough video:
 
-![Home Page](/public/home.png)
-
-### Interview
->Give MAANG and other companies one to one interview practice session
-
-![Interview](/public/interview.png)
-
-### CodeShare
->You can write and share your code files
-
-![CodeShare](/public/codeShare.png)
-
-### Protected
->Keep your protected files password protected
-
-![Protected](/public/password.png)
-
-### Problems
->Solve any DSA problem with solution
-
-![Problems](/public/problems.png)
-
-## Dashboard
->Keep all your stats in one place
-
-![Dashboard](/public/dashboard.png)
-
-### Ginie AI
->Ask any Coding related doubts
-
-![Ginnie AI](/public/ginie.png)
+<div align="center">
+  <a href="https://youtu.be/MgWH3ChFcUk?si=BOtGA1WCU0mgyRnj" target="_blank">
+    <img src="https://img.youtube.com/vi/MgWH3ChFcUk/maxresdefault.jpg" alt="CodePixel Demo Video" width="700" />
+  </a>
+  <p>Click the image to watch the full demo on YouTube</p>
+</div>
 
 CodePixel is the ultimate platform for competitive programming, interview preparation, and code sharing with AI assistance.
 
