@@ -95,7 +95,7 @@ CodePixel is built with modern web technologies:
 - **Database**: Firebase Realtime Database, MongoDB
 - **Authentication**: Clerk
 - **Visualization**: Recharts
-- **AI Integration**: Google Gemini
+- **AI Integration**: Ginie AI- Custom fine-tuned Llama 3.5 model running locally
 - **Real-time Collaboration**: Firebase, Socket.io
 
 ## 💖 Support
